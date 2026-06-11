@@ -14,17 +14,17 @@
 
 ---
 
-## 📱 Demo
+##  Demo
 
 | Home Screen | Sound Detection | Alert Screen |
 |---|---|---|
 | Dashboard with profile, alert types, and history | Real-time CNN-based sound classification | Full-screen color-coded visual alert |
 
-> 📥 **[Download Latest APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)**
+>  **[Download Latest APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)**
 
 ---
 
-## 🌟 Features
+##  Features
 
 | Feature | Description |
 |---|---|
@@ -40,31 +40,31 @@
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ```
-📱 Flutter App
+ Flutter App
      │
      ▼
-🎙️ Record 3.5s audio clip (every 4 seconds)
+ Record 3.5s audio clip (every 4 seconds)
      │
      ▼
-☁️  POST /predict → Flask Backend (Python)
+  POST /predict → Flask Backend (Python)
      │
      ▼
-🔄 Convert audio → Mel Spectrogram (128x128)
+ Convert audio → Mel Spectrogram (128x128)
      │
      ▼
-🤖 CNN Model inference (TensorFlow/Keras)
+ CNN Model inference (TensorFlow/Keras)
      │
      ▼
-📊 Returns predicted class + confidence score
+ Returns predicted class + confidence score
      │
      ▼
-🚨 If Dog Bark / Car Horn / Siren → ALERT!
+ If Dog Bark / Car Horn / Siren → ALERT!
      │
      ▼
-📳 Vibration + Notification + Full-screen Alert UI
+ Vibration + Notification + Full-screen Alert UI
 ```
 
 ---
@@ -90,7 +90,7 @@ The CNN model is trained on the **UrbanSound8K** dataset and recognizes 10 urban
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 | Technology | Purpose |
@@ -114,7 +114,7 @@ The CNN model is trained on the **UrbanSound8K** dataset and recognizes 10 urban
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 sonictouch-flutter/
@@ -143,8 +143,14 @@ sonictouch-flutter/
 ```
 
 ---
+## Screenshots
 
-## 🚀 Getting Started
+<img width="747" height="331" alt="image" src="https://github.com/user-attachments/assets/c8cc4f03-658a-41c2-bced-1242d66e7620" />
+
+<img width="757" height="327" alt="image" src="https://github.com/user-attachments/assets/27667055-0749-4b4d-96df-d493c383abd5" />
+
+
+## Getting Started
 
 ### Prerequisites
 
@@ -212,7 +218,7 @@ The CNN model and Flask API are in a separate repository:
 
 ---
 
-## 🔐 Permissions Required
+##  Permissions Required
 
 | Permission | Reason |
 |---|---|
@@ -224,7 +230,7 @@ The CNN model and Flask API are in a separate repository:
 
 ---
 
-## 📄 Key Dependencies
+##  Key Dependencies
 
 ```yaml
 flutter_sound: ^9.x         # Audio recording
@@ -240,7 +246,7 @@ path_provider                # Temp file storage
 
 ---
 
-## 🎯 Use Case
+##  Use Case
 
 SonicTouch is designed as an **assistive technology** tool. Target users include:
 
@@ -250,7 +256,7 @@ SonicTouch is designed as an **assistive technology** tool. Target users include
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 **Susmita Sahu**  
 B.E. Computer Engineering  
@@ -258,7 +264,7 @@ GitHub: [@SusmitaSahu365](https://github.com/SusmitaSahu365)
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for academic and demonstration purposes.
 
