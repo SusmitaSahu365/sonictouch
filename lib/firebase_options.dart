@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
     apiKey: '',
     appId: '',
     messagingSenderId: '',
-    projectId: 'sonictouchdata',
-    authDomain: 'sonictouchdata.firebaseapp.com',
-    storageBucket: 'sonictouchdata.firebasestorage.app',
-    measurementId: 'G-7CNGBF9JWM',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
     databaseURL: '',
   );
 
@@ -64,8 +64,8 @@ class DefaultFirebaseOptions {
     apiKey: 'Apikey',
     appId: 'Appid',
     messagingSenderId: 'jdjdjj',
-    projectId: 'sonictouchdata',
-    storageBucket: 'sonictouchdata.firebasestorage.app',
+    projectId: '',
+    storageBucket: '',
     databaseURL: 'https://url name',
   );
 }
