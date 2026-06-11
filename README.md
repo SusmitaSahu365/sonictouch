@@ -20,7 +20,7 @@
 |---|---|---|
 | Dashboard with profile, alert types, and history | Real-time CNN-based sound classification | Full-screen color-coded visual alert |
 
-> 📥 **[Download Latest APK](https://github.com/SusmitaSahu365/sonictouch-flutter/releases/latest)**
+> 📥 **[Download Latest APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)**
 
 ---
 
