@@ -50,22 +50,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAqn7q70QApaDwfQAHHWAE6g8rZEdvCbVM',
-    appId: '1:805440400995:web:9f9e54efdaf4bfedadd256',
-    messagingSenderId: '805440400995',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'sonictouchdata',
     authDomain: 'sonictouchdata.firebaseapp.com',
     storageBucket: 'sonictouchdata.firebasestorage.app',
     measurementId: 'G-7CNGBF9JWM',
-    databaseURL: 'https://sonictouchdata-default-rtdb.firebaseio.com/',
+    databaseURL: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAsbtzp50d0h6O4N7MPhlFkWuURngMHcYQ',
-    appId: '1:805440400995:android:8d0a890f81829e23add256',
-    messagingSenderId: '805440400995',
+    apiKey: 'Apikey',
+    appId: 'Appid',
+    messagingSenderId: 'jdjdjj',
     projectId: 'sonictouchdata',
     storageBucket: 'sonictouchdata.firebasestorage.app',
-    databaseURL: 'https://sonictouchdata-default-rtdb.firebaseio.com',
+    databaseURL: 'https://url name',
   );
 }
