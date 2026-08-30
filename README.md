@@ -256,11 +256,6 @@ SonicTouch is designed as an **assistive technology** tool. Target users include
 
 ---
 
-## Developer
-
-**Susmita Sahu**  
-B.E. Computer Engineering  
-GitHub: [@SusmitaSahu365](https://github.com/SusmitaSahu365)
 
 ---
 
